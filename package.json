@@ -1,0 +1,12 @@
+{
+  "name": "sql-lint-ex",
+  "version": "1.0.0",
+  "author": "npdev453",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.46.0",
+    "eslint-plugin-sql": "^2.4.4",
+    "eslint-plugin-unicorn": "^48.0.1",
+    "sql-tag": "^1.0.1"
+  }
+}
